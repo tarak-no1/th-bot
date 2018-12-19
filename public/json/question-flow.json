@@ -1,0 +1,29 @@
+{
+	"city" : 
+	{
+		"priority":0,
+		"status":false,
+		"type" :"dynamic",
+		"question_type" :"quick_reply",
+		"question_text" :"Where are you planning to buy your home?",
+		"question_name" : "city"
+	},
+	"property" :
+	{
+		"priority":1,
+		"status":false,
+		"type" :"dynamic",
+		"question_type" :"carousel",
+		"question_text" :"Look at these options. Pick the one that suits you",
+		"question_name" : "property"
+	},
+	"unit" :
+	{
+		"priority":2,
+		"status":false,
+		"type" :"dynamic",
+		"question_type" :"carousel",
+		"question_text" :"We found 1 option(s). Check below",
+		"question_name" : "unit"
+	}	
+}

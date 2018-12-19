@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a120cf3f-21f8-4d6b-89be-1b684c65392c" name="th-bot" url="http://www.prodx.in">
+        <fileTransfer host="www.prodx.in" port="22" privateKey="D:\All Files\tarakesh.pem" rootFolder="/home/ubuntu/selekt/tata_housing_bot" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
